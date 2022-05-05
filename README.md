@@ -1,5 +1,5 @@
 ## Hello Folks!! 👋
-![](https://komarev.com/ghpvc/?username=Tapu106&color=blue)
+![](https://komarev.com/ghpvc/?username=TanjinAlam&color=blue)
 
 
 ### 😃 I am Tanjin Alam. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
