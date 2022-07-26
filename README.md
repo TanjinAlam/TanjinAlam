@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/docker-%FF2D20.svg?style=for-the-badge&logo=docker&logoColor=white&color=FF2D20)
 ![](https://img.shields.io/badge/solidity-%FF2D20.svg?style=for-the-badge&logo=solidity&logoColor=white&color=FF2D20)
+![](https://img.shields.io/badge/rust-%FF2D20.svg?style=for-the-badge&logo=rust&logoColor=white&color=F05032)
 
 
 ### 📈 Git Stats
