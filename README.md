@@ -45,7 +45,7 @@
 
 
 ### 📈 Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjinAlam&layout=compact&langs_count=20&theme=blue-green&hide=jupyter notebook)](https://github.com/TanjinAlam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjinAlam&layout=compact&hide=jupyternotebook&langs_count=20&theme=blue-green)](https://github.com/TanjinAlam/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanjinAlam&show_icons=true&theme=blue-green)
 
