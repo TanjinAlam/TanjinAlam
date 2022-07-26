@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=FF2D20)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +45,7 @@
 
 
 ### 📈 Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjinAlam&layout=compact&langs_count=20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjinAlam&layout=compact)](https://github.com/TanjinAlam/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanjinAlam&show_icons=true&theme=blue-green)
 
