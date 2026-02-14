@@ -4,18 +4,27 @@
 
 ### 😃 I am Tanjin Alam. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
 
-- 🔭 I’m currently working on problem solving and my personal projects.
-- 🌱 I’m currently learning new technologies.
-- 🥅 2022 Goals: I want to improve my skills as a software engineer. 
-- ⚡ Fun fact: I love to read books and watch detective movies.
+🔭 Currently working on:
+Cloud automation, Kubernetes-based projects, CI/CD pipelines, and scalable backend services.
 
+🌱 Currently learning:
+Advanced Kubernetes security & networking, cloud architecture (AWS/GCP), GitOps, and system design for distributed systems.
 
+🧠 Focus areas:
+DevOps best practices, platform engineering, observability, and performance optimization.
+
+🥅 Goals:
+Grow as a well-rounded DevOps & Software Engineer, contribute to open-source, and design systems that are secure, resilient, and cost-efficient.
+
+⚡ Fun fact:
+I love reading books, exploring system internals, and watching detective & tech-thriller movies.
 
 ### 🤝 Connect with me:
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
+
+
+Explore my work, projects, and story — tanjinalam.github.io/tanjin-portfolio
 
 
 ### 🔧 Technologies and Tools:
