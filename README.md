@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=TanjinAlam&color=blue)
 
 
-### 😃 I am Tanjin Alam. I'm a passionate coder, web developer, and Blockchain enthusiast who enjoys experimenting with new technologies. 
+### ⚙️ Hi, I’m Tanjin Alam — Cloud-Native DevOps & Backend Engineer
 
 🔭 Currently working on:
 Cloud automation, Kubernetes-based projects, CI/CD pipelines, and scalable backend services.
@@ -24,7 +24,8 @@ I love reading books, exploring system internals, and watching detective & tech-
 <br />
 
 
-Explore my work, projects, and story — tanjinalam.github.io/tanjin-portfolio
+✨ **Explore my work, projects, and story →**  
+🔗 **[tanjinalam.github.io/tanjin-portfolio](https://tanjinalam.github.io/tanjin-portfolio)**
 
 
 ### 🔧 Technologies and Tools:
@@ -54,8 +55,8 @@ Explore my work, projects, and story — tanjinalam.github.io/tanjin-portfolio
 
 
 ### 📈 Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjinAlam&layout=compact&hide=jupyter%20notebook&langs_count=20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanjinAlam&show_icons=true&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanjinAlam)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanjinAlam&show_icons=true&theme=radical)
 
 
 
